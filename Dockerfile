@@ -1,2 +1,2 @@
 FROM python:3
-RUN /bin/sh -c "echo 'Hello World. Its v1.0.14.' > index.html"
+RUN /bin/sh -c "echo 'Hello World. Its v1.0.15.' > index.html"
